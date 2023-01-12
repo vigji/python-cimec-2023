@@ -1,4 +1,4 @@
-# Python for open neuroscience
+# Python for (open) Neuroscience
 
 <img align="right" width="400" height="400" src="https://imgs.xkcd.com/comics/python.png">
 
@@ -17,7 +17,7 @@ Temptative syllabus for the course. Ideally, its incremental nature should ensur
 ---
 
 
-### Module 0: the fundamentals
+### Module 0: the fundamentals 🏗
 A very basic introduction to the basic syntax and structure of Python code, just a smattering: more will come while exploring other modules.
 
  - **0.0. Introduction to Python variables and statements**
@@ -35,7 +35,7 @@ A very basic introduction to the basic syntax and structure of Python code, just
 ---
 
 
-### Module 1: the scientific stack in Python
+### Module 1: the scientific stack in Python 📚
 We introduce the Holy Trinity of data analysis: `numpy`, `pandas`, and `matplotlib`; and we show how they solve almost all our data analysis problems.
 
  - **1.0. `numpy`**
@@ -53,7 +53,7 @@ We introduce the Holy Trinity of data analysis: `numpy`, `pandas`, and `matplotl
 ---
 
 
-### Module 2: Python for neuroscientific data
+### Module 2: Python for neuroscientific data 🔬
 We start using all of the above on some real neuroscientific data, trying to find common solutions to problems and tasks from different fields.
 
 - **2.0. Images**
@@ -71,7 +71,7 @@ We start using all of the above on some real neuroscientific data, trying to fin
 
 ---
 
-### Module 3: Advanced topics in Python data analysis 
+### Module 3: Advanced topics in Python data analysis ☄️
 We see how to bring home the neuroscientific bacon with Python. Keep your code organised, generate good paper figures, make sure that your code is documented and accessible (this session is open to be adjusted based on requests and interests to make some space to deepen on some of the previous topics.)
 
 - **3.0. Advanced visualisation and data rendering**
