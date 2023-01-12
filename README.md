@@ -8,8 +8,6 @@ Thanks to its flexibility it has been widely adopted and it is used in thousands
 
 In this course, we aim at covering the basics of Python usage and show how it can be used to solve many of the day-to-day problems we face as scientists. 
 <br/><br/>
-<br/><br/>
-<br/><br/>
 
 ## Syllabus (draft)
 Temptative syllabus for the course. Ideally, its incremental nature should ensure that each core concept that is introduced is then revisited and expanded on in every new lecture.
