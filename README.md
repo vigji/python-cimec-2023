@@ -4,6 +4,10 @@
 ## Syllabus (draft)
 Temptative syllabus for the course. Ideally, its incremental nature should ensure that each new concept that is introduced is constantly revisited and expanded on in every new lecture.
 
+
+---
+
+
 ### Module 0: the fundamentals of Python.
 A very basic introduction to the basic syntax and structure of Python code - just a smattering: more will come while exploring other modules.
 
@@ -18,6 +22,8 @@ A very basic introduction to the basic syntax and structure of Python code - jus
     - <ins>Practicals:</ins> write a simple custom class. Interact and use previously defined classes, search for their methods and attributes.
 
 **Assignment**: Exercise tba
+
+---
 
 
 ### Module 1: the scientific stack in Python
@@ -35,6 +41,9 @@ We introduce the Holy Trinity of data analysis: `numpy`, `pandas`, and `matplotl
 
 **Assignment**: Exercise tba
 
+---
+
+
 ### Module 2: Python for neuroscientific data
 We start using all of the above on some real neuroscientific data, trying to find common solutions to problems and tasks from different fields.
 
@@ -51,9 +60,10 @@ We start using all of the above on some real neuroscientific data, trying to fin
 
 **Assignment**: Exercise tba
 
+---
+
 ### Module 3: Advanced topics in Python data analysis 
 We see how to bring home the neuroscientific bacon with Python. Keep your code organised, generate good paper figures, make sure that your code is documented and accessible (this session is open to be adjusted based on requests and interests to make some space to deepen on some of the previous topics.)
-<ins>Practicals</ins> Exercises tba
 
 - **3.0. Advanced visualisation and data rendering**
     - <ins>Theory:</ins> Some basic concepts and rules of data visualisation using `matplotlib`, tips for generating paper quality figures. More on `pandas` and `seaborn`. How to create animations with `matplotlib` and `napari`.
@@ -68,7 +78,10 @@ We see how to bring home the neuroscientific bacon with Python. Keep your code o
 
 **Assignment**: Exercise tba
 
-### Soft skills
+---
+
+
+### Complimentary soft skills
 Ideally, the course will also try to convey some more elusive coding-related soft skills, such as:
 - Write good data analysis code, keeping an eye on reusability, readability, parameterisation... 
 - Learn how not to get stuck and learn from bugs: find online resources (documentation, StackOverflow, GitHub); and interact with them (asking questions, reporting bugs, raising issues, etc.)
