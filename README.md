@@ -1,6 +1,6 @@
-<img align="right" width="400" height="400" src="https://imgs.xkcd.com/comics/python.png">
-
 # Python for open neuroscience
+
+<img align="right" width="400" height="400" src="https://imgs.xkcd.com/comics/python.png">
 
 Python is a open-source, high-level, multi-purpose programming language. 
 
