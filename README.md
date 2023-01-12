@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://imgs.xkcd.com/comics/python.png">
 
-# python-CIMeC
+# Python for open neuroscience
 
 Python is a open-source, high-level, multi-purpose programming language. 
 
