@@ -8,17 +8,17 @@ Temptative syllabus for the course. Ideally, its incremental nature should ensur
 ---
 
 
-### Module 0: the fundamentals.
+### Module 0: the fundamentals
 A very basic introduction to the basic syntax and structure of Python code, just a smattering: more will come while exploring other modules.
 
  - **0.0. Introduction to Python variables and statements**
     -  <ins>Theory:</ins> Variable types (numbers, strings) and their operators, data structures (lists, dictionaries), basic clauses (conditionals, while/for  loops, try-except); simple file reading. 
-    - <ins>Practicals:</ins> Setting up Python and the basic IDEs (Anaconda, PyCharm and Jupyter notebooks). Find documentation searching and online resources. Exercises tba
+    - <ins>Practicals:</ins> Setting up Python and the basic IDEs (Anaconda, PyCharm and Jupyter notebooks). Find documentation searching and online resources. Exercises tba.
   - **0.1. Functions and modules**
-    - <ins>Theory:</ins> Reusing code in Python: functions (definition, argument passing, scope), modules (make a new module, import functions from existing library); installing new libraries with pip
+    - <ins>Theory:</ins> Reusing code in Python: functions (definition, argument passing, scope), modules (make a new module, import functions from existing library); installing new libraries with `pip`.
     - <ins>Practicals:</ins> exercises on functions tba; create a simple module; `pip install` a new library (ideally, something to achieve simply something complex) and use it.
   - **0.2. Fundamentals of classes and objects**
-    - <ins>Theory:</ins> Definition of classes and their components (methods, attributes, properties); objects and object instantiation; 
+    - <ins>Theory:</ins> Definition of classes and their components (methods, attributes, properties); objects and object instantiation.
     - <ins>Practicals:</ins> write a simple custom class. Interact and use previously defined classes, search for their methods and attributes.
 
 **Assignment**: Exercise tba
@@ -31,13 +31,13 @@ We introduce the Holy Trinity of data analysis: `numpy`, `pandas`, and `matplotl
 
  - **1.0. `numpy`**
     - <ins>Theory:</ins> Data types: the `np.array`. initialisation, operators, indexing (numerical and boolean masking); operations with arrays (concatenate, stack, searching extrema, sorting, using sorting indexes). Visualising arrays and matrices with `matplotlib`. Reading and writing `.npy` files.
-    - <ins>Practicals:</ins> Exercises tba, ideally with some neuro-related data. Important: practice turning for loops into vector operations
+    - <ins>Practicals:</ins> Exercises tba, ideally with some neuro-related data. Important: practice turning for loops into vector operations.
  - **1.1. `pandas`**: 
     - <ins>Theory:</ins> `pd.Series` and `pd.DataFrames`; reading and writing `.csv` files. Optimal ways to organize data in dataframes. Working with dataframes: indexing, slicing, selecting, querying, interpolating, mapping. Using `matplotlib` to visualise datasets. 
-    - <ins>Practicals:</ins> exercises tba, ideally with some neuro-related data. Important: show how labelled data make operations easier than numpy
- - **1.2. Advanced `pandas`**: 
-    - <ins>Theory:</ins> Aggregated operations using `groupby` and `rolling`. Group statistics, smoothing, resampling. Mindblowing `pandas` (depending on progress): hierarchical indexing with MultiIndex, aggregated operations, dataset alignment. Introduction to `seaborn`.
-    - <ins>Practicals:</ins> show how to easily make aggregate statistics and visualisations using `seaborn`
+    - <ins>Practicals:</ins> exercises tba, ideally with some neuro-related data. Important: show how labelled data make operations easier than numpy.
+ - **1.2. More on `pandas`**: 
+    - <ins>Theory:</ins> Advanced `pandas`: aggregated operations using `groupby` and `rolling`. Group statistics, smoothing, resampling. Mindblowing `pandas` (depending on progress): hierarchical indexing with MultiIndex, aggregated operations, dataset alignment. Introduction to `seaborn`.
+    - <ins>Practicals:</ins> show how to easily make aggregate statistics and visualisations using `seaborn`.
 
 **Assignment**: Exercise tba
 
@@ -67,7 +67,7 @@ We see how to bring home the neuroscientific bacon with Python. Keep your code o
 
 - **3.0. Advanced visualisation and data rendering**
     - <ins>Theory:</ins> Some basic concepts and rules of data visualisation using `matplotlib`, tips for generating paper quality figures. More on `pandas` and `seaborn`. How to create animations with `matplotlib` and `napari`.
-    - <ins>Practicals:</ins> Exercises tba
+    - <ins>Practicals:</ins> Exercises tba.
 - **3.1. Version control using `git` and GitHub**
     - <ins>Theory:</ins> Advantages and importance of version control systems. Core `git` concepts: `add`, `commit`, `branch`. Synch code with GitHub: `fetch`, `pull`, `push`.
     - <ins>Practicals:</ins> Exercises tba
