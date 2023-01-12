@@ -6,7 +6,7 @@ Python is a open-source, high-level, multi-purpose programming language.
 
 Thanks to its flexibility it has been widely adopted and it is used in thousands of applications. It offers tools for fast manipulation of large matrices and datasets (as MATLAB) and powerful data aggregation and statistics (as R), together with thousands of packages for machine learning, visualizations, simulations, hardware control, and many others.
 
-In this course, we aim at covering the basics of Python usage and show how it can be used to solve many of the day-to-day problems we face as scientists. 
+In this course, we aim at covering the basics of Python usage and show how it can be used to solve many of the day-to-day problems we face as neuroscientists. 
 <br/><br/>
 <br/><br/>
 
@@ -71,18 +71,22 @@ We start using all of the above on some real neuroscientific data, trying to fin
 
 ---
 
-### Module 3: Advanced topics in Python data analysis ☄️
-We see how to bring home the neuroscientific bacon with Python. Keep your code organised, generate good paper figures, make sure that your code is documented and accessible (this session is open to be adjusted based on requests and interests to make some space to deepen on some of the previous topics.)
+### Module 3: Advanced topics in Python for neuroscience ☄️
+We see how to bring home the neuroscientific bacon with Python. Keep your code organised, generate good paper figures, make sure that your code is documented and accessible. Here are some possible topics, we can pick up three based on interest.
 
-- **3.0. Advanced visualisation and data rendering**
+- **Advanced visualisation and data rendering**
     - <ins>Theory:</ins> Some basic concepts and rules of data visualisation using `matplotlib`, tips for generating paper quality figures. More on `pandas` and `seaborn`. How to create animations with `matplotlib` and `napari`.
     - <ins>Practicals:</ins> Exercises tba.
-- **3.1. Version control using `git` and GitHub**
+- **Version control using `git` and GitHub**
     - <ins>Theory:</ins> Advantages and importance of version control systems. Core `git` concepts: `add`, `commit`, `branch`. Synch code with GitHub: `fetch`, `pull`, `push`.
     - <ins>Practicals:</ins> Exercises tba
-- **3.2. Organising and publishing scientific code.**
+- **Organising and publishing scientific code.**
     - <ins>Theory:</ins> Best practices for clean and readable scripts and notebooks. Design principles for a data processing pipeline; structure of a pip installable repository. How and where to deposit code for a publication.
     - <ins>Practicals:</ins> Exercises tba
+- **Scripting experiments using Python**
+    - <ins>Theory:</ins> Use Python to generate visual or auditory stimuli. Brief introduction to Psychopy. Interacting with Arduino and NI boards to read and write digital, analog and serial inputs/outputs
+    - <ins>Practicals:</ins> Exercises tba
+- **...**
 
 
 **Assignment**: Exercise tba
@@ -102,11 +106,11 @@ Ideally, the course will also try to convey some more elusive coding-related sof
 The course will be organized in 4 modules. Each module comprises three lectures, two hours each, that will mix theory and hands-on parts. At the end of each module there will be an assigment, and a time slot to ask questions on the lectures and the assignment. A temptative schedule for each module could be:
 
 - Week 0:
-    - Lecture x.0 (Monday 17:00-19:00)
-    - Lecture x.1 (Thursday 17:00-19:00)
+    - Lecture x.0 (temptative: 17:00-19:00)
+    - Lecture x.1 (temptative: 17:00-19:00)
 - Week 1:
-    - Lecture x.2. (Monday 17:00-19:00)
-    - Office hours. (Thursday 17:00-19:00)
+    - Lecture x.2. (temptative: 17:00-19:00)
+    - Office hours. (temptative: 17:00-19:00)
 
 
 
