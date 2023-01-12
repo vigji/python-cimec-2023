@@ -2,14 +2,14 @@
 
 
 ## Syllabus (draft)
-Temptative syllabus for the course. Ideally, its incremental nature should ensure that each new concept that is introduced is constantly revisited and expanded on in every new lecture.
+Temptative syllabus for the course. Ideally, its incremental nature should ensure that each core concept that is introduced is then revisited and expanded on in every new lecture.
 
 
 ---
 
 
-### Module 0: the fundamentals of Python.
-A very basic introduction to the basic syntax and structure of Python code - just a smattering: more will come while exploring other modules.
+### Module 0: the fundamentals.
+A very basic introduction to the basic syntax and structure of Python code, just a smattering: more will come while exploring other modules.
 
  - **0.0. Introduction to Python variables and statements**
     -  <ins>Theory:</ins> Variable types (numbers, strings) and their operators, data structures (lists, dictionaries), basic clauses (conditionals, while/for  loops, try-except); simple file reading. 
@@ -48,10 +48,10 @@ We introduce the Holy Trinity of data analysis: `numpy`, `pandas`, and `matplotl
 We start using all of the above on some real neuroscientific data, trying to find common solutions to problems and tasks from different fields.
 
 - **2.0. Images**
-    - <ins>Theory:</ins> Images and stacks data formats. Opening and writing different data formats (`.tiffs`, `.nrrd`, `.nii`). Visualising images with `matplotlib` and videos and stacks with `napari`. Image operations (cropping, smoothing, resizing, histogram normalisation...); batch processing of images.
+    - <ins>Theory:</ins> Images and stacks data formats. Opening and writing different data formats (`.tiffs`, `.nrrd`, `.nii`). Visualising images with `matplotlib` and videos and stacks with `napari`. Simple image operations (cropping, smoothing, resizing, histogram normalisation...); batch processing of images.
     - <ins>Practicals:</ins> Exercises tba
  - **2.1. Time series**
-    - <ins>Theory:</ins>Working with time series using `numpy` and `pandas`. Reading and writing time series data. Resampling, event detection (eg spike detection or artefact identification), event-triggered cropping. Filtering, smoothing (upon interest/time, introduction to tools for frequency-domain analysis). 
+    - <ins>Theory:</ins>Working with time series using `numpy` and `pandas`. Reading and writing time series data. Resampling, event detection (eg spike detection or artefact identification), event-triggered cropping. Filtering, smoothing (if there is interest/time, introduction to tools for frequency-domain analysis). 
     - <ins>Practicals:</ins> Exercises tba
  - **2.2. Fundamentals of statistics and machine learning with Python**
     - <ins>Theory:</ins> Compute basic statistical tests with `scipy.statistics`. The `scikit-learn` package: Dimensionality reduction and clustering. Using Principal Component Analysis (PCA) to reduce dimensionality on a dataset. Introduction to clustering using the K-means algorithm
