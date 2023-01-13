@@ -10,9 +10,21 @@ In this course, we aim at covering the basics of Python usage and show how it ca
 <br/><br/>
 <br/><br/>
 
+## Organization of the course (draft)
+
+The course will be organized in 4 modules. Each module comprises three lectures, two hours each, that will mix frontal lectures and hands-on parts to work on in pairs (peer coding). At the end of each module there will be an assigment, and a time slot to ask questions on the lectures and the assignment. Material will be available before the lectures using GitHub, and assignments automatically scored using GitHub Classroom.
+
+A temptative schedule for each module could be:
+
+- Week 0:
+    - Lecture x.0 (temptative: 17:00-19:00)
+    - Lecture x.1 (temptative: 17:00-19:00)
+- Week 1:
+    - Lecture x.2. (temptative: 17:00-19:00)
+    - Office hours. (temptative: 17:00-19:00)
+    
 ## Syllabus (draft)
 Temptative syllabus for the course. Ideally, its incremental nature should ensure that each core concept that is introduced is then revisited and expanded on in every new lecture.
-
 
 ---
 
@@ -100,17 +112,6 @@ Ideally, the course will also try to convey some more elusive coding-related sof
 - Learn how not to get stuck and learn from bugs: find online resources (documentation, StackOverflow, GitHub); and interact with them (asking questions, reporting bugs, raising issues, etc.)
 - Understand the value of open source code in the scientific endeaviour, and the importance of depositing code and datasets.
 
-
-## Schedule of the course (draft)
-
-The course will be organized in 4 modules. Each module comprises three lectures, two hours each, that will mix theory and hands-on parts. At the end of each module there will be an assigment, and a time slot to ask questions on the lectures and the assignment. A temptative schedule for each module could be:
-
-- Week 0:
-    - Lecture x.0 (temptative: 17:00-19:00)
-    - Lecture x.1 (temptative: 17:00-19:00)
-- Week 1:
-    - Lecture x.2. (temptative: 17:00-19:00)
-    - Office hours. (temptative: 17:00-19:00)
 
 
 
