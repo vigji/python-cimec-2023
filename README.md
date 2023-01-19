@@ -12,16 +12,22 @@ In this course, we aim at covering the basics of Python usage and show how it ca
 
 ## Organization of the course (draft)
 
-The course will be organized in 4 modules. Each module comprises three lectures, two hours each, that will mix frontal lectures and hands-on parts to work on in pairs (peer coding). At the end of each module there will be an assigment, and a time slot to ask questions on the lectures and the assignment. Material will be available before the lectures using GitHub, and assignments automatically scored using GitHub Classroom.
+**Structure** The course will be organized in 4 modules. Each module comprises three lectures, two hours each, that will mix frontal lectures and hands-on parts to work on in pairs (peer coding). 
 
 A schedule for each module could be:
-
 - Week 0:
     - Lecture x.0 (tentative: 17:00-19:00)
     - Lecture x.1 (tentative: 17:00-19:00)
 - Week 1:
     - Lecture x.2. (tentative: 17:00-19:00)
     - Office hours. (tentative: 17:00-19:00)
+
+**Framework**: The first two modules will be teaching using Google Colab, with no setup needed on the students laptops. In the second part we will move to Jupyter Notebook, to understand how to set up an real-world python environment that can be used in the every day research work.
+
+**Assignments**: At the end of each module there will be an assigment, and a time slot to ask questions on the lectures and the assignment. Material will be available before the lectures using GitHub, and assignments automatically scored using GitHub Classroom.
+
+
+
 
 ## Syllabus (draft)
 Syllabus for the course. Ideally, its incremental nature should ensure that each core concept that is introduced is then revisited and expanded on in every new lecture.
@@ -34,8 +40,8 @@ A very basic introduction to the basic syntax and structure of Python code, just
 
  - **0.0. Introduction to Python variables and statements**
     -  <ins>Theory:</ins> Variable types (numbers, strings) and their operators, data structures (lists, dictionaries), basic clauses (conditionals, while/for  loops, try-except); simple file reading. 
-    - <ins>Practicals:</ins> Setting up Python and the basic IDEs (Anaconda, PyCharm and Jupyter notebooks). Find documentation searching and online resources. Exercises tba.
-  - **0.1. Functions and modules**
+    - <ins>Practicals:</ins>Exercises tba.
+  - **0.1. Functions (and modules ?)**
     - <ins>Theory:</ins> Reusing code in Python: functions (definition, argument passing, scope), modules (make a new module, import functions from existing library); installing new libraries with `pip`.
     - <ins>Practicals:</ins> exercises on functions tba; create a simple module; `pip install` a new library (ideally, something to achieve simply something complex) and use it.
   - **0.2. Fundamentals of classes and objects**
@@ -66,16 +72,16 @@ We introduce the Holy Trinity of data analysis: `numpy`, `pandas`, and `matplotl
 
 
 ### Module 2: Python for neuroscientific data 🔬
-We start using all of the above on some real neuroscientific data, trying to find common solutions to problems and tasks from different fields.
+We start using all of the above on some real world scenario and neuroscientific data, trying to find common solutions to problems and tasks from different fields.
 
-- **2.0. Images**
+- **2.0. Real-world Python for real-world data**
+ - <ins>Theory:</ins> Moving from Google Colab from local Python (using Anaconda) and jupyter notebook; understand where things are in a local installation; install new modules with pip. (maybe also from github). Interact with local data: browse and reorganize folders; opening or importing the most common data types that might come from experiments (txt, csv, xlsx, mat, tiff, ...to adjust depending on backgrounds).
+    - <ins>Practicals:</ins> Set up a working local Python environment, load some data and make some plots.
+- **2.1. Images**
     - <ins>Theory:</ins> Images and stacks data formats. Opening and writing different data formats (`.tiffs`, `.nrrd`, `.nii`). Visualising images with `matplotlib` and videos and stacks with `napari`. Simple image operations (cropping, smoothing, resizing, histogram normalisation...); batch processing of images.
     - <ins>Practicals:</ins> Exercises tba
- - **2.1. Time series**
+ - **2.2. Time series**
     - <ins>Theory:</ins>Working with time series using `numpy` and `pandas`. Reading and writing time series data. Resampling, event detection (eg spike detection or artefact identification), event-triggered cropping. Filtering, smoothing (if there is interest/time, introduction to tools for frequency-domain analysis). 
-    - <ins>Practicals:</ins> Exercises tba
- - **2.2. Fundamentals of statistics and machine learning with Python**
-    - <ins>Theory:</ins> Compute basic statistical tests with `scipy.statistics`. The `scikit-learn` package: Dimensionality reduction and clustering. Using Principal Component Analysis (PCA) to reduce dimensionality on a dataset. Introduction to clustering using the K-means algorithm
     - <ins>Practicals:</ins> Exercises tba
 
 
@@ -97,6 +103,9 @@ We see how to bring home the neuroscientific bacon with Python. Keep your code o
     - <ins>Practicals:</ins> Exercises tba
 - **Scripting experiments using Python**
     - <ins>Theory:</ins> Use Python to generate visual or auditory stimuli. Brief introduction to Psychopy. Interacting with Arduino and NI boards to read and write digital, analog and serial inputs/outputs
+    - <ins>Practicals:</ins> Exercises tba
+ - **2.2. Fundamentals of statistics and machine learning with Python**
+    - <ins>Theory:</ins> Compute basic statistical tests with `scipy.statistics`. The `scikit-learn` package: Dimensionality reduction and clustering. Using Principal Component Analysis (PCA) to reduce dimensionality on a dataset. Introduction to clustering using the K-means algorithm
     - <ins>Practicals:</ins> Exercises tba
 - **...**
 
