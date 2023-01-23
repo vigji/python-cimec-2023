@@ -4,7 +4,7 @@
 
 Python is an **open-source**, **high-level**, **multi-purpose** programming language. It offers tools for fast **manipulation of large matrices** and datasets (as MATLAB) and **powerful data aggregation** and statistics (as R), together with thousands of packages for **machine learning**, **visualizations**, simulations, hardware control, and many others. As a result, **a growing number of labs are adopting it for their workflows**. 
 
-This course will start covering **the basics of Python usage** and build up from there to some **more advanced topics**. The aim is to bring participant up to speed using **Python to solve some of the day-to-day problems** we face in the lab. People with some Python experience are welcome! You can help other students in the first part, and learn something useful in the later modules.
+This course will start covering **the basics of Python usage** and build up from there to some **more advanced topics**. The aim is to bring participant up to speed using **Python to solve some of the problems** we face daily in the lab. People with some Python experience are welcome! You can help other students in the first part, and learn something useful in the later modules.
 
 <br/><br/>
 <br/><br/>
@@ -22,9 +22,9 @@ A schedule for each module could be:
     - Office hours. (tentative: 17:00-19:00)
     
 
-**Framework and requirements**: You will be following the course on your own laptop. The first two modules will be teaching using Google Colab, with no setup needed on the students laptops (you will only need a browser and a working internet connection). In the second part we will move to Jupyter Notebook, to understand how to set up an real-world python environment that can be used in the every day research work. There is no specific system requirement, we should be able to set it up on Windows, MacOS, and Linux (you will have instructions and assistance for doing that!).
+**Framework and requirements**: You will be following the course on your own laptop. The first two modules will be teaching using **Google Colab**, with **no setup required** (you will only need a browser and a working internet connection). In the second part we will move to **Jupyter Notebooks**, to understand how to **set up an real-world Python environment** that can be used in the every day research work. There won't be system requirements, we should be able to set it up on Windows, MacOS, and Linux (you will have instructions and assistance for doing that!).
 
-**Assignments**: At the end of each of the first three modules there will be an assigment, and a time slot to ask questions on the lectures and on the assignment. (Ideally) the assignments will be automatically scored using GitHub Classroom. The last module will not have a test; the final assignment will be a small Python project of your choice, ideally addressing some real world problem from your work at the lab.
+**Assignments**: At the end of each of the first three modules there will be **a minimal recap assigment**, and a **time slot to ask questions** on the lectures and on the assignment. (Ideally) the assignments will be automatically scored using GitHub Classroom. The last module will not have a test; the final assignment will be a **small Python project of your choice**, ideally related/useful for your work at the lab.
 
 **Material**: The material will consist in jupyter notebooks and python scripts with the lecture content and exercises and it will be made available before the lectures using GitHub. 
 
@@ -45,7 +45,7 @@ A very basic introduction to the basic syntax and structure of Python code, just
     - <ins>Practicals:</ins>Exercises tba.
   - **0.1. Functions (and modules ?)**
     - <ins>Theory:</ins> Reusing code in Python: functions (definition, argument passing, scope), modules (make a new module, import functions from existing library); installing new libraries with `pip`.
-    - <ins>Practicals:</ins> exercises on functions tba; create a simple module; `pip install` a new library (ideally, something to achieve simply something complex) and use it.
+    - <ins>Practicals:</ins> exercises on functions; create a simple module; `pip install` a new library and use it.
   - **0.2. Fundamentals of classes and objects**
     - <ins>Theory:</ins> Definition of classes and their components (methods, attributes, properties); objects and object instantiation.
     - <ins>Practicals:</ins> write a simple custom class. Interact and use previously defined classes, search for their methods and attributes.
@@ -60,12 +60,12 @@ We introduce the Holy Trinity of data analysis: `numpy`, `pandas`, and `matplotl
 
  - **1.0. `numpy`**
     - <ins>Theory:</ins> Data types: the `np.array`. initialisation, operators, indexing (numerical and boolean masking); operations with arrays (concatenate, stack, searching extrema, sorting, using sorting indexes). Visualising arrays and matrices with `matplotlib`. Reading and writing `.npy` files.
-    - <ins>Practicals:</ins> Exercises tba, ideally with some neuro-related data. Important: practice turning for loops into vector operations.
+    - <ins>Practicals:</ins> Exercises tba, ideally with some neuro-related data. Turning `for` loops into vector operations.
  - **1.1. `pandas`**: 
     - <ins>Theory:</ins> `pd.Series` and `pd.DataFrames`; reading and writing `.csv` files. Optimal ways to organize data in dataframes. Working with dataframes: indexing, slicing, selecting, querying, interpolating, mapping. Using `matplotlib` to visualise datasets. 
     - <ins>Practicals:</ins> exercises tba, ideally with some neuro-related data. Important: show how labelled data in `pandas` make operations easier than when using `numpy`.
  - **1.2. More on `pandas`**: 
-    - <ins>Theory:</ins> Advanced `pandas`: aggregated operations using `groupby()` and `rolling()`. Group statistics, smoothing, resampling. Mindblowing `pandas` (depending on progress): hierarchical indexing with `MultiIndex`, aggregated operations, dataset alignment. Introduction to `seaborn` for dataset visualization.
+    - <ins>Theory:</ins> Advanced `pandas`: aggregated operations using `groupby()` and `rolling()`. Group statistics, smoothing, resampling. Mindblowing `pandas` (depending on progress/interest): hierarchical indexing with `MultiIndex`, aggregated operations, dataset alignment. Introduction to `seaborn` for dataset visualization.
     - <ins>Practicals:</ins> show how to easily make aggregate statistics and visualisations using `seaborn`.
 
 **Assignment**: Exercise tba
