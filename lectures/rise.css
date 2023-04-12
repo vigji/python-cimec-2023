@@ -66,7 +66,7 @@ body.rise-enabled sub {
 code.rise-enabled div.inner_cell>div.text_cell_render.rendered_html,
 .reveal code{
   font-family: 'Cutive Mono', serif;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 
