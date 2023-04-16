@@ -49,14 +49,14 @@ body.rise-enabled div.inner_cell>div.text_cell_render.rendered_html,
 .reveal body{
   font-family: 'EB Garamond', sans-serif;
   font-weight: 300;
-  font-size: 100%;
+  font-size: 120%;
 }
 
 body.rise-enabled sup, sub {
   vertical-align: baseline;
   position: relative;
   top: -0.2em;
-  font-size: 60%;
+  font-size: 72%;
 }
 
 body.rise-enabled sub { 
