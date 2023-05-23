@@ -1,4 +1,4 @@
-# A clean Python installation
+# A clean Python installation using `conda`
 _(as of May 2023)_
 
 It is finally the moment to move from the safe harbours of Google Colab into the perilous waters of local Python installations! 
@@ -29,17 +29,17 @@ Do you actually need a new Python installation? Pick the option that best descri
 ---
 
 ##  Python installation
-We will be managing our local Python installation using `conda`. `conda` is a package manager, which means it is a program that will help you install and update Python. It is also a virtual environment manager, which means it will help you create and manage different Python environments - more on this in the next lectures!
+We will be managing our local Python installation using `conda`. `conda` is a package manager, which means it is a program that will help you install and update Python and its libraries. It is also a virtual environment manager, which means it will help you create and manage different Python environments - more on this in the next lectures!
 
 ### 0. Download and install `conda`
 Go [here](https://docs.conda.io/en/latest/miniconda.html) and dowload the latest installer for your operating system.
 
-![Screenshot 2023-05-22 at 21.35.05.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fwp%2Fq156lfy924zg6bqc48v9j2800000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_zlUzt6%2FScreenshot%202023-05-22%20at%2021.35.05.png)
+![Screenshot 2023-05-22 at 21.35.05.png](./lectures/files/screen_conda.png)
 
 After the download, run the installer and follow the instructions. The only option I recommend checking and eventually changing is the installation path. I recommend installing `conda` in your home directory, so that it is easy to find and manage. Make sure it is directly under  `/Users/your-username/` (Mac) or `C:\Users\your-username\` (Windows).
 
 #### Test your `conda` installation
-Open a terminal (Mac) or a command prompt (Windows) and type `conda`. If you see a list of commands, you are good to go! If you get something like `conda: command not found`, ask for help!
+Open a terminal (Mac; you can search it with the OS search) or an Anaconda prompt (Windows; you can search it with the OS search) and type `conda`. If you see a list of commands, you are good to go! If you get something like `conda: command not found`, ask for help!
 
 ---
 ### 1. Install jupyter
@@ -49,7 +49,7 @@ We will be using Jupyter notebooks to write and run our code. To install it, typ
 conda install jupyter
 ```
 
-This will install Jupyter and all the packages it needs to run. If you are asked to confirm the installation, type `y` and press enter.
+This will install Jupyter and all the packages it needs to run. If you are asked to confirm the installation, type `y` and press enter. It can take a bit!
 
 #### Test your Jupyter installation
 Type the following command in the terminal:
@@ -99,7 +99,14 @@ Close and reopen the terminal (or command prompt), then type the following comma
 juptyer notebook
 ```
 
-This should open a browser with a Jupyter notebook. Click on `New` and check that you see `course-env` in the list of available kernels. 
+This should open a browser with a Jupyter notebook, something that looks like this:
+
+![Screen notebook](./lectures/files/screen_notebook.png)
+
+
+Click on the `New` menu and check that you see `course-env` in the list of available kernels:
+![Screen notebook](./lectures/files/screen_env.png)
+
 
 Select `course-env` and create a new notebook. In the first cell, type the following code:
 
