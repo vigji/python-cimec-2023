@@ -57,7 +57,7 @@ Type the following command in the terminal:
 ```bash
 jupyter notebook
 ```
-You should see a browser opening with a Jupyter notebook. If you do, you are good to go! If you get something like `jupyter: command not found`, ask for help!
+You should see a browser opening with a Jupyter notebook. If you do, you are good to go! If you get something like `jupyter: command not found`, you might want to close the terminal and open it again. If the problem persists, ask for help!
 
 
 ---
