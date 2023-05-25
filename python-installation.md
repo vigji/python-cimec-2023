@@ -59,6 +59,8 @@ jupyter notebook
 ```
 You should see a browser opening with a Jupyter notebook. If you do, you are good to go! If you get something like `jupyter: command not found`, you might want to close the terminal and open it again. If the problem persists, ask for help!
 
+**Note**: After you open a notebook, you won't be able to work on the terminal you have launched it from! For the following steps, first close the notebook! (by first closing the webpage, then pressing `Ctrl+C` on the terminal).
+
 
 ---
 ### 2. Create a new Python environment
@@ -90,6 +92,12 @@ We will now install the packages we need for the course. In the terminal you ope
 ```bash
 conda install numpy scipy matplotlib pandas scikit-learn scikit-image ipykernel
 ipython kernel install --name=course-env
+```
+
+**Debug tip**: if the above line is failing with an authorization/privileges error, try to add the `--user` argument:
+
+```bash
+ipython kernel install --name=course-env --user
 ```
 
 #### Test your packages
