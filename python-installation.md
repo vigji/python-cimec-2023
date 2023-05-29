@@ -101,10 +101,10 @@ ipython kernel install --name=course-env --user
 ```
 
 #### Test your packages
-Close and reopen the terminal (or command prompt), then type the following command:
+Close and reopen the terminal (or command prompt) - or type `conda deactivate` (we need to run jupyter notebook from the base environment), then type the following command:
 
 ```bash 
-juptyer notebook
+jupyter notebook
 ```
 
 This should open a browser with a Jupyter notebook, something that looks like this:
