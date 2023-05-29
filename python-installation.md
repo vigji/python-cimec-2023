@@ -57,7 +57,9 @@ Type the following command in the terminal:
 ```bash
 jupyter notebook
 ```
-You should see a browser opening with a Jupyter notebook. If you do, you are good to go! If you get something like `jupyter: command not found`, ask for help!
+You should see a browser opening with a Jupyter notebook. If you do, you are good to go! If you get something like `jupyter: command not found`, you might want to close the terminal and open it again. If the problem persists, ask for help!
+
+**Note**: After you open a notebook, you won't be able to work on the terminal you have launched it from! For the following steps, first close the notebook! (by first closing the webpage, then pressing `Ctrl+C` on the terminal).
 
 
 ---
@@ -92,11 +94,17 @@ conda install numpy scipy matplotlib pandas scikit-learn scikit-image ipykernel
 ipython kernel install --name=course-env
 ```
 
+**Debug tip**: if the above line is failing with an authorization/privileges error, try to add the `--user` argument:
+
+```bash
+ipython kernel install --name=course-env --user
+```
+
 #### Test your packages
-Close and reopen the terminal (or command prompt), then type the following command:
+Close and reopen the terminal (or command prompt) - or type `conda deactivate` (we need to run jupyter notebook from the base environment), then type the following command:
 
 ```bash 
-juptyer notebook
+jupyter notebook
 ```
 
 This should open a browser with a Jupyter notebook, something that looks like this:
