@@ -9,6 +9,25 @@ This course will start covering **the basics of Python usage** and build up from
 <br/><br/>
 <br/><br/>
 
+## Lectures recordings
+- [Lecture 2.0](https://www.youtube.com/watch?v=ROFbFADkKpU)
+
+
+## Additional online resources and exercises
+#### Intro level
+Those is mostly aimed at people who have never written a line of Python, or have forgot everything about it.
+
+- [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science): requires registration, but offers free intro courses for basic Python usage. Very boring, as drills should be.
+- [Codecademy](https://www.codecademy.com/learn/learn-python-3): has same formula, with free account offers some basic Python tutorials.
+- [Udacity](http://udacity.com/course/cs101): again the same, more based on videos.
+
+
+#### Intermediate level
+
+- [Python for neuroscientists](https://pyforneuro.com/)
+- [Case Studies in Neural Data Analysis](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
+- [Computational Neuroscience in Python textbook](https://mrgreene09.github.io/computational-neuroscience-textbook/)
+
 ## Organization of the course
 
 **Structure**: The course will be organized in four modules. Each module comprises three sessions, two hours each, that will mix frontal lectures and hands-on parts to work on in pairs (peer coding). 
