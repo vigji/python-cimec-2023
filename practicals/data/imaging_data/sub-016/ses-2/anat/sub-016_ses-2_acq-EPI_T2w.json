@@ -1,0 +1,7 @@
+{
+ "PulseSequenceType": "EPI",
+ "NumberOfVolumesDiscardedByScanner": 0,
+ "RepetitionTime": 2,
+ "Manufacturer": "Bruker MRI",
+ "InstitutionName": "UNC CAMRI"
+}
