@@ -1,11 +1,11 @@
 # Submission of final project
 
-The final assignment of the course consists in a small Python project, ideally something that could be useful for your work or some extra-curricular endeavior. 
+The final assignment of the course consists in a small Python project, ideally something that could be useful for your work or some extra-curricular endeavior.  If you have already some half-backed or questionably written project going on, expanding and refactoring would also be suitable ideas!
 
-If you have already some half-backed or questionably written project going on, expanding and refactoring would also be suitable ideas!
+While you work on the project, feel free to ask for feedback at any point!
 
 ### Format
-The project should be **uploaded to a public repository in your GitHub**, that will be the only accepted submission form! (There will be a class about publishing code on GitHub). If you have concerns about leaving it open, let us know and we can discuss it!
+The project should be **uploaded to a public repository in your GitHub**, that will be the only accepted submission form! (There will be a class about publishing code on GitHub). If you have concerns about leaving it open, let us know and we can discuss it.
 
 ### Project content
 Depending on the project, it could consist of one or more notebooks, and/or (encouraged) functions and classes defined in separate `.py` modules.
@@ -14,11 +14,13 @@ Make sure you **thoroughly document your code**! Try to write self-explanatory c
 
 The project **must** feature a `README.md` in the repository with a (schematic) description of the project aims and structure.
 
-Examples of reasonable projects:
- - Writing a loading class for an experiment with multiple data sources
- - Drafting the analysis of a dataset (with data loading, operations, plot generation...)
+### Examples 
+To give an idea, reasonable projects could be like:
+ - Writing a loading class for an experiment's data, and showcase its use in a notebook
+ - Preliminary analysis of a dataset (with data loading, aggregation, plots...); either original data or from the web
  - Implementing a new experiment / preparing the material for an experiment (eg images)
- - Refactoring some old code you wrote before knowing about classes and avoding magic numbers (refactoring should be conceptual and not only cosmetic! Thinking about avoiding duplicated code, thinking forward about usability of the functions and classes, etc.)
+ - Writing code for cool generative art using plotting functions
+ - Refactoring some old code you wrote before (conceptual and not only cosmetic! Avoiding duplicated code, reusability, etc.)
 
 
 ### Final presentations
