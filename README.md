@@ -10,7 +10,10 @@ This course will start covering **the basics of Python usage** and build up from
 <br/><br/>
 
 ## Lectures recordings
-- [Lecture 2.0](https://www.youtube.com/watch?v=ROFbFADkKpU)
+- [Lecture 2.0](https://youtu.be/ROFbFADkKpU)
+- [Lecture 2.1](https://youtu.be/O_rRMRIJdxc)
+- [Lecture 2.2](https://youtu.be/BzLIZx4Y-E8)
+- [Lecture 2.3](https://youtu.be/GonT_SZ1zZ4)
 
 
 ## Additional online resources and exercises
