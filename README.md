@@ -10,13 +10,14 @@ This course will start covering **the basics of Python usage** and build up from
 <br/><br/>
 
 ## Lectures recordings
-- [Lecture 2.0](https://youtu.be/ROFbFADkKpU)
-- [Lecture 2.1](https://youtu.be/O_rRMRIJdxc)
-- [Lecture 2.2](https://youtu.be/BzLIZx4Y-E8)
-- [Lecture 3.0](https://youtu.be/UF2rJg5aCYo)
-- (Lecture 3.1 missing)
-- [Lecture 3.2](https://youtu.be/8QhOFkEkhoQ)
-- (Lecture 3.3 missing)
+- [Lecture 2.0](https://youtu.be/ROFbFADkKpU): Local Python installation, demistified
+- [Lecture 2.1](https://youtu.be/O_rRMRIJdxc): Jupyter notebooks and working with the filesystem
+- [Lecture 2.2](https://youtu.be/BzLIZx4Y-E8): Working with images and imaging data
+- [Lecture 3.0](https://youtu.be/UF2rJg5aCYo): Version control using GitHub
+- (Lecture 3.1 missing - Imaging data analysis)
+- [Lecture 3.2](https://youtu.be/8QhOFkEkhoQ): Introduction to statistics and machine learning
+- (Lecture 3.3 missing - Running experiments in Python)
+- [Lecture 3.3](https://youtu.be/GjYWyihBAoo): Data visualization
 
 
 ## Additional online resources and exercises
