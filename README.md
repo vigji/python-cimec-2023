@@ -17,7 +17,7 @@ This course will start covering **the basics of Python usage** and build up from
 - (Lecture 3.1 missing - Imaging data analysis)
 - [Lecture 3.2](https://youtu.be/8QhOFkEkhoQ): Introduction to statistics and machine learning
 - (Lecture 3.3 missing - Running experiments in Python)
-- [Lecture 3.3](https://youtu.be/GjYWyihBAoo): Data visualization
+- [Lecture 3.4](https://youtu.be/GjYWyihBAoo): Data visualization
 
 
 ## Additional online resources and exercises
