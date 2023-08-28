@@ -5,7 +5,7 @@ The final assignment of the course consists in a small Python project, ideally s
 While you work on the project, feel free to ask for feedback at any point!
 
 ### Format
-The project should be **uploaded to a public repository in your GitHub**, that will be the only accepted submission form! (There will be a class about publishing code on GitHub). If you have concerns about leaving it open, let us know and we can discuss it.
+The project should be **uploaded to a public repository in your GitHub**. A link to the repository will be the only accepted submission form! (There will be a class about publishing code on GitHub). If you have concerns about leaving it open, let us know and we can discuss it.
 
 ### Project content
 Depending on the project, it could consist of one or more notebooks, and/or (encouraged) functions and classes defined in separate `.py` modules.
