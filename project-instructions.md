@@ -14,7 +14,7 @@ Make sure you **thoroughly document your code**! Try to write self-explanatory c
 
 ### `README.md`
 The project **must** feature a `README.md` in the repository with a (schematic) description of the project aims and structure.
-Ideally, after a brief description, in the `README.md` you should give some instructions about how to install and run the code (for some random examples see [here](https://github.com/AlliedToasters/circle-fit), or [here](https://github.com/portugueslab/xiao_et_al])) for the descriptions of different kinds of projects).
+Ideally, after a brief description, in the `README.md` you should give some instructions about how to install and run the code. If you want, you can find [here](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf) a markdown cheatsheet. For some random examples see [here](https://github.com/AlliedToasters/circle-fit), or [here](https://github.com/portugueslab/xiao_et_al]) for the descriptions of different kinds of projects).
 
 ### Examples 
 To give an idea, reasonable projects could be like:
