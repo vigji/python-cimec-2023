@@ -12,8 +12,9 @@ Depending on the project, it could consist of one or more notebooks, and/or (enc
 
 Make sure you **thoroughly document your code**! Try to write self-explanatory code (meaningful variables names, logical flow...) and add the comments you feel necessary. It shouldn't just work, it should be readable - it is a good chance to try doing that well, as you will get feedback about it! If you write notebooks, make sure you use the markdown cells to describe the notebook content and to add all the required explanations to the analysis flow.
 
+### `README.md`
 The project **must** feature a `README.md` in the repository with a (schematic) description of the project aims and structure.
-Ideally, after a brief description, in the `README.md` you should give some instructions about how to install and run the code (for some random examples see [https://github.com/AlliedToasters/circle-fit](here), or [https://github.com/portugueslab/xiao_et_al](here) for the descriptions of different kinds of projects).
+Ideally, after a brief description, in the `README.md` you should give some instructions about how to install and run the code (for some random examples see [here](https://github.com/AlliedToasters/circle-fit), or [here](https://github.com/portugueslab/xiao_et_al])) for the descriptions of different kinds of projects).
 
 ### Examples 
 To give an idea, reasonable projects could be like:
