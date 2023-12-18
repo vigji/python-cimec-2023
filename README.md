@@ -2,9 +2,10 @@
 
 <img align="right" width="400" height="400" src="https://imgs.xkcd.com/comics/python.png">
 
-Python is an **open-source**, **high-level**, **multi-purpose** programming language. It offers tools for fast **manipulation of large matrices** and datasets (as MATLAB) and **powerful data aggregation** and statistics (as R), together with thousands of packages for **machine learning**, **visualizations**, simulations, hardware control, and many others. As a result, **a growing number of labs are adopting it for their workflows**. 
+Python is an **open-source**, **high-level**, **multipurpose** programming language. It offers tools for fast **manipulation of large matrices** and datasets (similar to MATLAB) and **powerful data aggregation** and statistics (akin to R), together with thousands of packages for **machine learning**, **visualizations**, simulations, hardware control, and many others. As a result, **a growing number of labs are adopting it for their workflows**.
 
-This course will start covering **the basics of Python usage** and build up from there to some **more advanced topics**. The aim is to bring participant up to speed using **Python to solve some of the problems** we face daily in the lab. People with some Python experience are welcome! You can help other students in the first part, and learn something useful in the later modules.
+This course will start covering **the basics of Python usage** and build up from there to some **more advanced topics**. The aim is to bring participants up to speed in using **Python to solve some of the common problems** we face daily in the lab. People with some Python experience are welcome! You can assist other students in the first part, and then learn something new and useful in the later modules.
+
 
 <br/><br/>
 <br/><br/>
