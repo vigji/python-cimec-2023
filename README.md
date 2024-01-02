@@ -10,31 +10,6 @@ This course will start covering **the basics of Python usage** and build up from
 <br/><br/>
 <br/><br/>
 
-## Lectures recordings
-- [Lecture 2.0](https://youtu.be/ROFbFADkKpU): Local Python installation, demistified
-- [Lecture 2.1](https://youtu.be/O_rRMRIJdxc): Jupyter notebooks and working with the filesystem
-- [Lecture 2.2](https://youtu.be/BzLIZx4Y-E8): Working with images and imaging data
-- [Lecture 3.0](https://youtu.be/UF2rJg5aCYo): Version control using GitHub
-- (Lecture 3.1 missing - Imaging data analysis)
-- [Lecture 3.2](https://youtu.be/8QhOFkEkhoQ): Introduction to statistics and machine learning
-- (Lecture 3.3 missing - Running experiments in Python)
-- [Lecture 3.4](https://youtu.be/GjYWyihBAoo): Data visualization
-
-
-## Additional online resources and exercises
-#### Intro level
-Those is mostly aimed at people who have never written a line of Python, or have forgot everything about it.
-
-- [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science): requires registration, but offers free intro courses for basic Python usage. Very boring, as drills should be.
-- [Codecademy](https://www.codecademy.com/learn/learn-python-3): has same formula, with free account offers some basic Python tutorials.
-- [Udacity](http://udacity.com/course/cs101): again the same, more based on videos.
-
-
-#### Intermediate level
-
-- [Python for neuroscientists](https://pyforneuro.com/)
-- [Case Studies in Neural Data Analysis](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
-- [Computational Neuroscience in Python textbook](https://mrgreene09.github.io/computational-neuroscience-textbook/)
 
 ## Organization of the course
 
@@ -42,16 +17,23 @@ Those is mostly aimed at people who have never written a line of Python, or have
 
 A schedule for each module could be:
 - Week 0:
-    - Lecture x.0 (tentative: 17:00-19:00)
-    - Lecture x.1 (tentative: 17:00-19:00)
+    - Lecture x.0
+    - Assignments
 - Week 1:
-    - Lecture x.2. (tentative: 17:00-19:00)
-    - Office hours. (tentative: 17:00-19:00)
+    - Lecture x.1
+    - Assignments
+- Week 2:
+    - Lecture x.2
+    -  Assignments
+- Week 3:
+    - Office hours
+ 
+**Dates**: the course will run every Monday (tentative time: 17:00-19:00) from February to May 2024. Dates are flexible and we can change them during the course if there's constraints/preferences on the student's side.
     
 
 **Framework and requirements**: You will be following the course on your own laptop. The first two modules will be teaching using **Google Colab**, with **no setup required** (you will only need a browser and a working internet connection). In the second part we will move to **Jupyter Notebooks**, to understand how to **set up an real-world Python environment** that can be used in the every day research work. There won't be system requirements, we should be able to set it up on Windows, MacOS, and Linux (you will have instructions and assistance for doing that!).
 
-**Assignments**: At the end of each of the first three modules there will be **a minimal recap assigment**, and a **time slot to ask questions** on the lectures and on the assignment. (Ideally) the assignments will be automatically scored using GitHub Classroom. The last module will not have a test; the final assignment will be a **small Python project of your choice**, ideally related/useful for your work at the lab.
+**Assignments**: At the end of each of the first three modules there will be **a minimal recap assigment**, and a **time slot to ask questions** on the lectures and on the assignment. 
 
 **Material**: The material will consist in jupyter notebooks and python scripts with the lecture content and exercises and it will be made available before the lectures using GitHub. 
 
@@ -149,6 +131,31 @@ Ideally, the course will also try to convey some more elusive coding-related sof
 - **Write good data analysis code**, keeping an eye on reusability, readability, parameterisation... 
 - **Learn how not to get stuck** and learn from bugs: find online resources (documentation, StackOverflow, GitHub); and interact with them (asking questions, reporting bugs, raising issues, etc.)
 - **Understand the value of open source code** in the scientific endeaviour, and the importance of depositing code and datasets.
+
+## Additional online resources and exercises
+#### Intro level
+Those is mostly aimed at people who have never written a line of Python, or have forgot everything about it.
+
+- [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science): requires registration, but offers free intro courses for basic Python usage. Very boring, as drills should be.
+- [Codecademy](https://www.codecademy.com/learn/learn-python-3): has same formula, with free account offers some basic Python tutorials.
+- [Udacity](http://udacity.com/course/cs101): again the same, more based on videos.
+
+
+#### Intermediate level
+
+- [Python for neuroscientists](https://pyforneuro.com/)
+- [Case Studies in Neural Data Analysis](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
+- [Computational Neuroscience in Python textbook](https://mrgreene09.github.io/computational-neuroscience-textbook/)
+
+## Old Lectures recordings
+- [Lecture 2.0](https://youtu.be/ROFbFADkKpU): Local Python installation, demistified
+- [Lecture 2.1](https://youtu.be/O_rRMRIJdxc): Jupyter notebooks and working with the filesystem
+- [Lecture 2.2](https://youtu.be/BzLIZx4Y-E8): Working with images and imaging data
+- [Lecture 3.0](https://youtu.be/UF2rJg5aCYo): Version control using GitHub
+- (Lecture 3.1 missing - Imaging data analysis)
+- [Lecture 3.2](https://youtu.be/8QhOFkEkhoQ): Introduction to statistics and machine learning
+- (Lecture 3.3 missing - Running experiments in Python)
+- [Lecture 3.4](https://youtu.be/GjYWyihBAoo): Data visualization
 
 
 
